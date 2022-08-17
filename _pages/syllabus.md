@@ -1,13 +1,14 @@
 ---
 title: Syllabus
 permalink: /syllabus/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
-
-# CMSC 150 Introduction to Programming with Python
 
 _This is the syllabus for the term. For the schedule, click here._
 
-Fall 2022
+## Front Matter
 
 **Instructor:** Acacia Ackles
 
@@ -18,12 +19,12 @@ Fall 2022
 MW 9:50 AM - 11:00 AM (Lecture)  
 Th 10:25 AM - 12:10 PM (Lab)
 
-**Course Materials:**
+### Course Materials
 
 _Automate the Boring Stuff with Python_, 2nd Edition. Free to read online [here](https://automatetheboringstuff.com/).   
 Print copies can be purchased but are not required.
 
-**Student Hours:**
+### Student Hours
 
 **Office:** Steitz 131 (NOTE: NOT BRIGGS)
 
@@ -181,5 +182,8 @@ If you are revising **more than one week** after the original due date, you must
 ## Pedagogy
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
+
+_Currently under construction._
+
 
 This syllabus is based heavily on one by Dr. Anya E. Vostinar.
