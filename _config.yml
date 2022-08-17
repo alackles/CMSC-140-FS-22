@@ -1,0 +1,39 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+title: CMSC 140 - Introduction to Programming with Python
+subtitle: Fall 2022
+description: Materials for the Fall 2022 (inaugural!) term of CMSC 140 Introduction to Programming with Python at Lawrence University, taught by Acacia Ackles.
+plugins: [jekyll-include-cache]
+repository: "alackles/CMSC-140-FS-22"
+search: true
+
+author:
+  name: Acacia Ackles
+  bio:  Visiting Assistant Professor of Computer Science at Lawrence University
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://alackles.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/alackles"      
+
+collections:
+  weeks:
+    output: true
+    permalink: /schedule/:path/
+
+defaults:
+  # _weeks
+  - scope:
+      path: "_weeks"
+      type: weeks
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "cog"
