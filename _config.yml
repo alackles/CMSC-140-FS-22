@@ -109,6 +109,3 @@ defaults:
       comments: false
       share: false
       related: false
-      toc: true
-      toc_label: "Table of Contents"
-      toc_icon: "cog"

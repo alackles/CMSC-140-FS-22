@@ -1,3 +1,1 @@
-# Course Page 
-
-Fall 2022
+_This course is currently under construction and subject to frequent changes._
