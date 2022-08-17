@@ -1,11 +1,27 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-title: CMSC 140 - Introduction to Programming with Python
-subtitle: Fall 2022
-description: Materials for the Fall 2022 (inaugural!) term of CMSC 140 Introduction to Programming with Python at Lawrence University, taught by Acacia Ackles.
-plugins: [jekyll-include-cache]
-repository: "alackles/CMSC-140-FS-22"
-search: true
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "CMSC 140: Introduction to Programming with Python"
+title_separator          : "-"
+subtitle                 : "Fall 2022"
+description              : "Materials for the fall 2022 (inaugural!) term of CMSC 140 Introduction to Programming with Python at Lawrence University. Taught by Acaica Ackles."
+repository               : "alackles/CMSC-140-FS-22"
+# Site Author
 author:
   name: Acacia Ackles
   bio:  Visiting Assistant Professor of Computer Science at Lawrence University
@@ -15,18 +31,71 @@ author:
       url: "http://alackles.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alackles"      
+      url: "https://github.com/alackles"    
 
-collections:
-  weeks:
-    output: true
-    permalink: /schedule/:path/
+
+
+# Reading Files
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - LICENSE
+  - README
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 
 defaults:
-  # _weeks
+  # _pages
   - scope:
-      path: "_weeks"
-      type: weeks
+      path: "_pages"
+      type: "pages"
     values:
       layout: single
       author_profile: false

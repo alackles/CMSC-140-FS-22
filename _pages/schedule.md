@@ -1,3 +1,8 @@
+---
+title: Schedule
+permalink: /schedule/
+---
+
 This is a rough schedule of topics for each day, and the release and due dates for homework assignments. 
 
 Reading should be completed **before** the class day that they are listed; the morning reading quizzes will reflect those topics.

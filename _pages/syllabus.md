@@ -1,3 +1,8 @@
+---
+title: Syllabus
+permalink: /syllabus/
+---
+
 # CMSC 150 Introduction to Programming with Python
 
 _This is the syllabus for the term. For the schedule, click here._
