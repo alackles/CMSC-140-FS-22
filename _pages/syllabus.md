@@ -188,11 +188,40 @@ All late work falls under the revision policy and is considered work turned in a
 
 That said, the term moves quickly. If you are consistently submitting late work, it will impact your ability to succeed in class, and I may ask you to meet with me to figure out how to help you best succeed in the course. 
 
+## Course Policies
+
+### Attendance
+
+Attendance is encouraged; it is not mandatory, and it is not tracked. You will likely do better in class if you attend regularly; however, I understand that you may have many responsibilities and commitments outside this classroom.
+
+I will post lecture notes and live coding demos to the course website under Materials so that if you do miss class, you can catch up. As always, you are responsible for learning any material that you miss, and as always, my student hours are available to discuss any material you might need guidance on.
+
+### Accomodations
+
+I make every effort to incorporate universal design and inclusive learning into my course materials, but individualization is an important part of learning. 
+
+I will follow the guidance of any academic accomodations you [request](https://www7.lawrence.edu/academics/academic-success/accessibility-services/requesting-accommodations) through the Center for Academic Success.
+
+I will also make a good-faith effort to follow other academic accomodations you may need, regardless of whether or not you have documentation from CAS, a doctor, or otherwise. If there is something I can do that you know will allow you to engage fully with the course, please do not hesitate to ask. (If you need help figuring out what that 'something' is, we can chat about that too.)
+
+### Illness and Mask Policy
+
+**Please do not come to class if you are sick.** Please do not come to class if you think you might be sick. Please do not come to class if you were exposed to any sort of highly contagious airborne disease. You do not need a doctor's note and I do not need an excuse for you to miss class. Just don't come!
+
+We will follow Lawrence University's guidance on masking for the term.
+
+### Other Policies
+
+Here are some other assorted course policies that may be added to over the term.
+
+- Food and drink are always okay to have in class, but I'm not responsible if your laptop gets drenched.
+- If you are experiencing a childcare or dependent care emergency, you are welcome to bring your child/dependent to class if you choose to attend.
+- Your health and wellbeing as a human are more important than any university course, including mine. 
+
 ## Pedagogy
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
 
-_Currently under
 
 
-This syllabus is based heavily on one by Dr. Anya E. Vostinar.
+_This syllabus is based heavily on one by Dr. Anya E. Vostinar. Thanks!_
