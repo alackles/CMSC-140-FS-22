@@ -101,6 +101,7 @@ Each assessment you complete (homework, labs, projects) will have associated lea
 For each learning objective, you'll receive a grade on the same mastery scale as each individual assessment.
 
 **Learning Objective Scale**
+
 |  | | |
 | ------ | ------- | ------ |
 | **M** | Mastery | Demonstrates mastery on 70% or more of the associated assessments, and proficiency in remaining |
