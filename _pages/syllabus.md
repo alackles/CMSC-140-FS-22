@@ -149,7 +149,7 @@ Below is an outline of which assessments match to which learning objectives, and
 
 **L7: Reflection**
 
-This one iss slightly different; for mastery credit you must:
+This one is slightly different; for mastery credit you must:
 
 - Complete revisions of **any two assessments**. These assessments can even be ones you already earned mastery credit for the first time around. There's always something to tweak or try differently next time! 
 - Complete your **final project reflection**.
@@ -172,18 +172,27 @@ If you instead have an Incomplete (**IC**) in any learning objective, we'll talk
 
 ### Revisions
 
-At any point, you can revise your assessments for a higher mastery score. You can even do this for assessments you have already revised. 
+Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. For that reason, any and all assessments in this class can be revised up until the end of the term. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
 
-If you are revising **within one week** of the original due date, you can just resubmit the work without notifying me and I will update your score.
+If you are revising **within one week** of the original feedback, I will guarantee feedback within a week of your revised submission. 
 
-If you are revising **more than one week** after the original due date, you must get approval from me to submit a revision. I will almost certainly grant approval; this is just a way for me to avoid having too many revisions to review at once towards the end of the semester and keep things fair for all.
+If you are revising **after one week** from the original feedback, I cannot guarantee how quickly you will receive new feedback; however, it will be taken into account by the end of the term. 
 
+_Example 1:_ Homework 3 is due October 6th. You receive your feedback and a mastery score of Proficient on October 9th. You resubmit the assignment on October 16th. You are guaranteed to receive new feedback and an updated mastery score by October 23rd.
+
+_Example 2:_ Lab 2 takes place on September 22nd. You receive your feedback and a mastery score of Novice on September 24th. A while later, you decide to redo the lab and resubmit on October 24th. You may not receive feedback or an updated score until the end of the term. You could also receive it more quickly than that, depending on how busy I might be with other revisions. 
+
+### Late Work & Extensions
+
+All late work falls under the revision policy and is considered work turned in as Incomplete. "Revise" (i.e. submit) within one week of the original deadline for guaranteed feedback.
+
+That said, the term moves quickly. If you are consistently submitting late work, it will impact your ability to succeed in class, and I may ask you to meet with me to figure out how to help you best succeed in the course. 
 
 ## Pedagogy
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
 
-_Currently under construction._
+_Currently under
 
 
 This syllabus is based heavily on one by Dr. Anya E. Vostinar.
