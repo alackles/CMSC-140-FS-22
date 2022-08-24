@@ -28,8 +28,8 @@ Print copies can be purchased but are not required.
 
 **Office:** Steitz 131 (NOTE: NOT BRIGGS)
 
-Mon - Thurs: 2:00 PM - 3:00 PM   
-Fri: _Appointment Only_ 
+Mon/Wed/Thu/Fri: 2:00 PM - 3:00 PM   
+Tue: _Appointment Only_ 
 
 If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
 
@@ -121,7 +121,7 @@ Below is an outline of which assessments match to which learning objectives, and
 **L2: Data Processing** [3 of 4]
 - HW6 
 - Week 6 In-Class Project
-- Week 7 Lab: Files 
+- Week 7 Lab: Housekeeping 
 - Final project
 
 **L3: Debugging** [3 of 4]
@@ -137,13 +137,13 @@ Below is an outline of which assessments match to which learning objectives, and
 
 **L5: Code Review** [3 of 4]
  - Week 3 In-Class Project
- - Week 7 Lab: Files 
+ - Week 8 Lab: Debugging
  - Week 9 In-Class Project 
  - Final project feedback
 
 **L6: Collaboration** [3 of 4]
 - Week 1 Lab: Python Setup
-- Week 7 Lab: Files 
+- Week 7 Lab: Housekeeping
 - Week 8 Lab: Debug Challenge
 - Final project 
 
@@ -222,6 +222,25 @@ Here are some other assorted course policies that may be added to over the term.
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 
 
+### Metacognition and Student Reflection
+
+Metacognition has been repeatedly shown to enhance student independence and success ([1][biggs], [2][schraw]). Metacognition is literally "thinking about thinking"; what leads you to the conclusions you reach when you're learning a new topic? What assumptions are you making when approaching a new topic that might be helping or hurting your understanding? 
+
+Ten weeks is a pretty short time frame to try to get really deep into metacognitive practices, so I really just try to incorporate reflection and revision into the course as much as possible. That's why one of our first labs is a revision of one of the other labs, and why all assessments can be revised and resubmitted at any time. 
+
+### Ungrading
+
+My goal is for students to focus more on what they have learned than how many points they have received for learning it. To encourage such focus, I myself prioritize feedback over scoring. This has led me to the mastery-based "grade" scheme that I use.
+
+Ungrading is also a more equitable form of student feedback. In computer science classrooms, ungrading typically enhances recruitment and retention of historically excluded students and reduces student stress, while maintaining a high standard of student work ([3][malan], [4][berns]). 
+
+For more on ungrading, see ([5][blum]).
 
 
 _This syllabus is based heavily on one by Dr. Anya E. Vostinar. Thanks!_
+
+[malan]: https://dl.acm.org/doi/10.1145/3408877.3432461
+[berns]: https://dl.acm.org/doi/10.1145/3328778.3366956
+[blum]: https://wvupressonline.com/ungrading
+[biggs]: http://journals.sagepub.com/doi/10.1177/000494418803200201
+[schraw]: http://link.springer.com/10.1007/s11165-005-3917-8
