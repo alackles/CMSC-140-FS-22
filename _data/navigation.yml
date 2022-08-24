@@ -3,3 +3,5 @@ main:
     url: /syllabus/
   - title: "Schedule"
     url: /schedule/
+  - title: "Final Project"
+    url: /final-project/
