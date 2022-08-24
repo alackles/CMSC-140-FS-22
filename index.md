@@ -1,1 +1,2 @@
-_This course is currently under construction and subject to frequent changes._
+Welcome to the course page for CMSC 140: Introduction to Programming with Python! 
+

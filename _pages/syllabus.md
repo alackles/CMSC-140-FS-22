@@ -81,6 +81,14 @@ This class will probably be graded very differently than you're used to. We'll t
 
 For more on why I'm doing this (if you're interested), see the Pedagogy section.
 
+
+### Homework, Labs, and Final Project
+
+You will have three different kinds of assessments:
+
+- **Homework**. These are assessments completed outside of class. They will typically be due one week after they are assigned. 
+- **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
+- **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/final-project) tab. This project can be completed collaboratively or individually, but you will receive an individual score.
 ### Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
@@ -187,6 +195,38 @@ _Example 2:_ Lab 2 takes place on September 22nd. You receive your feedback and 
 All late work falls under the revision policy and is considered work turned in as Incomplete. "Revise" (i.e. submit) within one week of the original deadline for guaranteed feedback.
 
 That said, the term moves quickly. If you are consistently submitting late work, it will impact your ability to succeed in class, and I may ask you to meet with me to figure out how to help you best succeed in the course. 
+
+## Collaboration and Plagiarism
+
+None of us want to have to go through the honor council process, so I want to lay out clearly what is and isn't considered acceptable collaboration for this course. 
+
+It is important to note that **my primary concern is that you are learning**. I allow you to revise and resubmit work on a mastery-based scale specifically to try to alleviate some of the pressure of strict, points-based grading that, in my experience, encourages gaming the system over learning. 
+
+If there is ever a situation where you're unsure if something is acceptable collaboration or not, please just ask, even if you have already turned in the assignment. I will never hold it against you if YOU are the one pointing out the issue. At worst I will ask you to resubmit. 
+
+### Acceptable Collaboration on All Assignments
+
+The following are **always** allowed on homeworks, labs, and projects.
+
+- Attending student hours and asking questions about the approach you are taking, then incorporating that approach into your code.
+- Discussing the concepts in the class with your classmates on a general level, e.g. in words or with pseudocode
+- Having someone else read your code with you and provide suggestions which you then implement yourself
+- Reading someone else's code to provide them with suggestions
+- Looking online for help to your **general** problem, or a **component** of your problem **with proper citation**. Example: Your homework question is "Implement a program that will randomly generate four dice rolls and drop the lowest value." It is fine to look up how to randomly generate numbers in python, how to find the minimum value, and how to return those numbers, and then paste the links as comments in your code. It is not fine to look up "python 4d6 drop lowest" and copy the code whole. 
+
+### Unacceptable Collaboration/Plagiarism
+
+The following are never allowed.
+
+- Copying any code that another student has written
+- Copying code from online without attribution
+- Posting solutions to the course materials to online aggregation sites (e.g. Chegg) or using solutions from such sites
+- Having a friend debug your code for you and then turning in the revised code
+- Looking at a friend’s code (or code on the internet for a similar purpose) and then using what you see to write your own code*
+- Looking at code from someone in class and then reproducing it verbatim in your own files
+- Directly copying code out of the book, or relying heavily on book code and not citing your use of it in the comments when the assignment does not specifically state that you may do so.
+
+\* This one is tricky. Sometimes seeing what other people are doing right or wrong can be helpful for understanding our own code, but often when we're just starting out, it's hard to find the line between learning something new and implementing something without really understanding how it works. If you are ever unsure, **ask first**. 
 
 ## Course Policies
 
