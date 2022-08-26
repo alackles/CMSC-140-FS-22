@@ -33,13 +33,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alackles"   
 
-sidebar:
-  - title: "Textbook"
-    text: "Access our textbook here."
-    url: https://automatetheboringstuff.com/#toc
-
-
-
 # Reading Files
 include:
   - _pages
