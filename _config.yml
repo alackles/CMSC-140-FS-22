@@ -31,7 +31,12 @@ author:
       url: "http://alackles.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alackles"    
+      url: "https://github.com/alackles"   
+
+sidebar:
+  - title: "Textbook"
+    text: "Access our textbook here."
+    url: https://automatetheboringstuff.com/#toc
 
 
 
