@@ -1,6 +1,7 @@
 ---
 title: Schedule
 permalink: /schedule/
+classes: wide
 ---
 
 This is a rough schedule of topics for each day, and the release and due dates for homework assignments. 
@@ -9,7 +10,7 @@ Reading should be completed **before** the class day that they are listed; the m
 
 "Sweigart" refers to the textbook, _Automate the Boring Stuff with Python_ 2nd ed. All reading should come with links. 
 
-| Date	| Topics	| Homework/Reading Due |	Homework Out |
+| Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
 | M 9/12 | Intro to the course: Assessments, projects, and (un)grades | Syllabus | |
