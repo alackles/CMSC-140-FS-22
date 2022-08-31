@@ -17,9 +17,10 @@ Your final project for this course is either a game or visualization that shows 
 | 10/13 | Proposal Due |
 | 11/3 | Rough Draft Due |
 | 11/10 | Peer Feedback Due |
-| 11/23 | Final Draft & Reflection Due | 
+| 11/18 | Last due date for feedback on project |
+| 11/23 @ 5:30 PM | Final Draft & Reflection Due | 
 
-At any point between these deadlines please feel free to come see me to get additional feedback on your final project. 
+At any point between these deadlines please feel free to come see me to get additional feedback on your final project, so long as it is before the final feedback date (11/18).
 ## Guidelines
 
 The final project is meant to be a culmination of _all_ of the skills you have learned in this course, so that in the future you can quickly and easily demonstrate the skills you have mastered by presenting this project. Therefore, your project should contain all of the following:
@@ -28,11 +29,11 @@ The final project is meant to be a culmination of _all_ of the skills you have l
    - Conditional statements and loops
    - Functions you have written yourself
    - Some data storage structure (lists, tuples, dictionaries)
-- **L2: Data Processing**: Your program should process either external files or user input, ideally both
-- **L3: Debugging**: Your program should be free of errors, and should handle user-input errors gracefully (e.g. with a message)
-- **L4: Style**: Your program should be well-commented and use organized functions
-- **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects.
-- **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version.
+- **L2: Data Processing**: Your project should process either external files or user input, ideally both.
+- **L3: Debugging**: Your program should be free of errors, and should handle user-input errors gracefully (e.g. with a message).
+- **L4: Style**: Your program should be well-commented and use organized functions. You should have a `README.md` that describes what your project does and how a user can interact with it.
+- **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects; you should complete this peer feedback for credit.
+- **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version. 
 - **L7: Reflection**: You will be asked to submit a final reflection with your project. 
 
 If you hit all of these points, you'll be given full mastery credit. 4-6 will be given Proficiency, and less than 4 will be given Novice. 
@@ -110,7 +111,24 @@ You do not have to answer all or even any of the following questions; they're ju
 - What can you take forward from this class to other classes? This could be something concerete you learned, an approach that you tried, or something that didn't work at all that you'll consciously avoid next time. 
 - Anything else you want to write about that will place your work into context for you and for me.  
 
-## ~~Examples~~ Ideas
+## Github Repository
+
+Your project will be turned in as a GitHub repository. Your project will be evaluated on **the version of the project that is on GitHub at 5:30 PM Central on Tuesday, November 23, 2022.** For legal reasons, I **cannot** accept work past this date and time. 
+
+If you want to turn in an earlier draft of the project to receive feedback, you can let me know at any time prior to 11:59 PM on 11/18. This is your last date to receive feedback from me on your project before its final evaluation. 
+
+### Specifications
+
+Your GitHub repository should:
+
+- Have a README.md which outlines the following:
+   - What your project does (the game, visualization, etc) in 1-2 sentences.
+   - What outside tools (modules, packages, datasets) were used to create your project 
+   - What contributions you made to the project in 1-2 sentences
+   - How a user can 
+- Instructions for how to download and run your project, or instructions on how to run your project if web-hosted
+- Contain all the code necessary for someone to download and run your project on their own computer without going to any outside source (besides possibly installing python or python modules)
+## Ideas
 
 This is where I would normally post a curated list of previous years' projects. However, this is the first year this course is running, so... I can't do that. 
 
@@ -130,4 +148,8 @@ So here is instead a list of ideas:
 - University admissions and retention data, e.g. [Sankey graphs](https://www.data-to-viz.com/graph/sankey.html)
 - World population over history 
 - Sports team win/loss records or other interesting sports data 
+
+Feel free to approach me with your own ideas as well. These are just to get your thinking started.
+
+_Portions of this document are taken from Dr. Anya Vostinar._
 
