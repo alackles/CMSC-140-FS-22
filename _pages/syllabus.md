@@ -93,6 +93,12 @@ You will have three different kinds of assessments:
 - **Homework**. These are assessments completed outside of class. They will typically be due one week after they are assigned. 
 - **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
 - **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/final-project) tab. This project can be completed collaboratively or individually, but you will receive an individual score.
+
+### How to Turn In Work
+
+**Homework** will be turned in to **Canvas** as a `.py` file. 
+
+**Labs** and **Projects** will be uploaded to your GitHub as a repository. 
 ### Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
@@ -208,7 +214,7 @@ It is important to note that **my primary concern is that you are learning**. I 
 
 If there is ever a situation where you're unsure if something is acceptable collaboration or not, please just ask, even if you have already turned in the assignment. I will never hold it against you if YOU are the one pointing out the issue. At worst I will ask you to resubmit. 
 
-### Acceptable Collaboration on All Assignments
+### Acceptable Collaboration
 
 The following are **always** allowed on homeworks, labs, and projects.
 
