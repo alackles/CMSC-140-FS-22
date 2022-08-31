@@ -19,20 +19,24 @@ _This is the syllabus for the term. For the schedule, click here._
 MW 9:50 AM - 11:00 AM (Lecture)  
 Th 10:25 AM - 12:10 PM (Lab)
 
+**Units:** 6
+
 ### Course Materials
 
 _Automate the Boring Stuff with Python_, 2nd Edition. Free to read online [here](https://automatetheboringstuff.com/).   
 Print copies can be purchased but are not required.
 
-### Student Hours
+### Student Drop-In Hours
 
 **Office:** Steitz 131 (NOTE: NOT BRIGGS)
 
 Mon/Wed/Thu/Fri: 2:00 PM - 3:00 PM   
 Tue: _Appointment Only_ 
 
-If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
+These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
+If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
+git a
 ## Overview
 
 This course will teach you the basics of how to program with Python. 
@@ -235,6 +239,8 @@ The following are never allowed.
 Attendance is encouraged; it is not mandatory, and it is not tracked. You will likely do better in class if you attend regularly; however, I understand that you may have many responsibilities and commitments outside this classroom.
 
 I will post lecture notes and live coding demos to the course website under Materials so that if you do miss class, you can catch up. As always, you are responsible for learning any material that you miss, and as always, my student hours are available to discuss any material you might need guidance on.
+
+**Exception:** Per LU policy, attendance is required for the first week of class. If you do not attend the first day AND do not let me know why, I will reach out to you to check if you are still attending; if you do not respond and do not attend the first week, the registrar will drop you from the course. 
 
 ### Accomodations
 
