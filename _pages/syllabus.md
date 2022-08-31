@@ -123,16 +123,16 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 |  | | |
 | ------ | ------- | ------ |
-| **M** | Mastery | Demonstrates mastery on 70% or more of the associated assessments, and proficiency in remaining |
-| **P** | Proficient | Demonstrates proficiency on 70% or more all associated assignments |
-| **N** | Novice | Demonstrates novice work on 70% or more of the associated assessments |
-| **IC** | Incomplete | Has not submitted at least 70% of the work for that objective |
+| **M** | Mastery | Demonstrates mastery on 75% or more of the associated assessments, and proficiency in remaining |
+| **P** | Proficient | Demonstrates proficiency on 75% or more all associated assignments |
+| **N** | Novice | Demonstrates novice work on 75% or more of the associated assessments |
+| **IC** | Incomplete | Has not submitted at least 75% of the work for that objective |
 | | | |
 
 Below is an outline of which assessments match to which learning objectives, and how many mastery credits you need for each in brackets. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
 
-**L1: Basics** [9 of 12]
-- All Homeworks (HW1-HW5)
+**L1: Basics** [10 of 13]
+- All Homeworks (HW1-HW6)
 - Labs: Week 1-5, Week 7
 - Final Project
 
@@ -148,7 +148,7 @@ Below is an outline of which assessments match to which learning objectives, and
 - Week 9 In-Class Project
 - Revision of any homework where you did _not_ earn mastery credit
 
-**L4: Style** [8 of 11]
+**L4: Style** [9 of 11]
 - All Homeworks (HW1-HW5)
 - Labs: Weeks 1-5
 - Final project 
