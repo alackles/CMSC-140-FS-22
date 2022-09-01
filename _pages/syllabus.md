@@ -100,6 +100,8 @@ You will have three different kinds of assessments:
 - **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
 - **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/final-project) tab. This project can be completed collaboratively or individually, but you will receive an individual score.
 
+Note: You will also have morning reding checks, but these aren't going to factor into your score. They're a tool for me to know what people are getting out of the readings. 
+
 ### How to Turn In Work
 
 **Homework** will be turned in to **Canvas** as a `.py` file. 
