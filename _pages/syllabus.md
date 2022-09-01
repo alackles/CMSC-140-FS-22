@@ -104,9 +104,9 @@ Note: You will also have morning reding checks, but these aren't going to factor
 
 ### How to Turn In Work
 
-**Homework** will be turned in to **Canvas** as a `.py` file. 
+**Homework** and **Labs** will be turned in to **Canvas** as a `.py` file. 
 
-**Labs** and **Projects** will be uploaded to your GitHub as a repository. 
+Your final project will be uploaded to your GitHub as a repository. We will set up your github in the first week of class.
 ### Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
