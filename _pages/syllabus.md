@@ -23,8 +23,15 @@ Th 10:25 AM - 12:10 PM (Lab)
 
 ### Course Materials
 
-_Automate the Boring Stuff with Python_, 2nd Edition. Free to read online [here](https://automatetheboringstuff.com/).   
-Print copies can be purchased but are not required.
+_Automate the Boring Stuff with Python_, 2nd Edition. Free to read online [here](https://automatetheboringstuff.com/). Print copies can be purchased but are not required.
+
+You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
+
+### Course Communication
+
+We will be using [Piazza](piazza.com/lawrence/fall2022/cmsc140) for all communication in this course, including announcements and discussions. **Make sure you are signed up for Piazza so you don't miss any information.**
+
+All correspondance with me should also go through Piazza, including scheduling meetings. You can always post privately so that only I can see it.
 
 ### Student Drop-In Hours
 
@@ -36,7 +43,6 @@ Tue: _Appointment Only_
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
 If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
-git a
 ## Overview
 
 This course will teach you the basics of how to program with Python. 
@@ -148,8 +154,8 @@ Below is an outline of which assessments match to which learning objectives, and
 - Week 9 In-Class Project
 - Revision of any homework where you did _not_ earn mastery credit
 
-**L4: Style** [9 of 11]
-- All Homeworks (HW1-HW5)
+**L4: Style** [9 of 12]
+- All Homeworks (HW1-HW6)
 - Labs: Weeks 1-5
 - Final project 
 
@@ -218,6 +224,7 @@ If there is ever a situation where you're unsure if something is acceptable coll
 
 The following are **always** allowed on homeworks, labs, and projects.
 
+- Posting general questions on Piazza about how to solve the problems in class
 - Attending student hours and asking questions about the approach you are taking, then incorporating that approach into your code.
 - Discussing the concepts in the class with your classmates on a general level, e.g. in words or with pseudocode
 - Having someone else read your code with you and provide suggestions which you then implement yourself
@@ -228,6 +235,7 @@ The following are **always** allowed on homeworks, labs, and projects.
 
 The following are never allowed.
 
+- Posting actual code on Piazza where other students can see it (posting it privately so I can read it is okay)
 - Copying any code that another student has written
 - Copying code from online without attribution
 - Posting solutions to the course materials to online aggregation sites (e.g. Chegg) or using solutions from such sites
@@ -269,6 +277,10 @@ Here are some other assorted course policies that may be added to over the term.
 - Food and drink are always okay to have in class, but I'm not responsible if your laptop gets drenched.
 - If you are experiencing a childcare or dependent care emergency, you are welcome to bring your child/dependent to class if you choose to attend.
 - Your health and wellbeing as a human are more important than any university course, including mine. 
+
+## Boilerplate
+
+Here is where I'll put the Lawrence boilerplate info.
 
 ## Pedagogy
 
