@@ -3,5 +3,7 @@ main:
     url: /syllabus/
   - title: "Schedule"
     url: /schedule/
+  - title: "Materials"
+    url: /materials/
   - title: "Final Project"
     url: /final-project/
