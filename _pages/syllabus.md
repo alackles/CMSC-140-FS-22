@@ -270,7 +270,7 @@ I will also make a good-faith effort to follow other academic accomodations you 
 
 **Please do not come to class if you are sick.** Please do not come to class if you think you might be sick. Please do not come to class if you were exposed to any sort of highly contagious airborne disease. You do not need a doctor's note and I do not need an excuse for you to miss class. Just don't come!
 
-We will follow Lawrence University's guidance on masking for the term.
+If anybody requests that we all be masked (anonymously), then there will be a masking requirement for our course. Otherwise, we will follow Lawrence University's guidance on masking for the term.
 
 ### Other Policies
 
