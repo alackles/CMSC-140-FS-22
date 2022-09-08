@@ -1,5 +1,12 @@
+---
+title: Install Python (Mac)
+permalink: /guides/install-mac/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
 
-# Installing Python (Windows)
+# Installing Python (MacOS)
 
 This short guide will walk you through installing Python on your MacOS computer.
 
