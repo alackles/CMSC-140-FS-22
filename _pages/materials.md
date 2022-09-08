@@ -6,4 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-Here is where materials (homeworks, labs, lecture notes, etc) will be posted when they are available. 
+# Guides
+
+[Install Python (Windows)](/guides/install-windows)
+[Install Python (Mac)](/guides/install-mac)

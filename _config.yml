@@ -36,6 +36,7 @@ author:
 # Reading Files
 include:
   - _pages
+  - guides
 exclude:
   - Gemfile
   - LICENSE
