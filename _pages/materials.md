@@ -8,6 +8,6 @@ toc_icon: "cog"
 
 # Guides
 
-[Install Python (Windows)](/guides/install-windows)
+[Install Python (Windows)](/CMSC-140-FS-22/guides/install-windows)
 
-[Install Python (Mac)](/guides/install-mac)
+[Install Python (Mac)](/CMSC-140-FS-22/guides/install-mac)
