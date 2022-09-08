@@ -52,7 +52,7 @@ If something like `pip 22.2.2 from /usr/lib/python3.10/site-packages/pip (python
 
 If nothing comes up, you don't have pip.
 
-## Install PIP if not installed
+### Install PIP if not installed
 
 The easiest way to install PIP is to basically download a python program that installs PIP. 
 
