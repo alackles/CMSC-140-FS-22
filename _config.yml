@@ -108,13 +108,3 @@ defaults:
       comments: false
       share: false
       related: false
-  - scope:
-      path: "guides"
-      type: "guides"
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: false
-      related: false
