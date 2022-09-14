@@ -37,6 +37,9 @@ author:
 include:
   - _pages
   - guides
+  - hwk
+  - lectures
+  - labs
 exclude:
   - Gemfile
   - LICENSE
