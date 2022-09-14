@@ -1,9 +1,6 @@
 # Variables, Numbers, and Strings
 
-## Reading Quiz
-
-Today's reading quiz can be found on Piazza.
-
+Download the live coding file we did in class here: <a href="CMSC-140-FS-22/lectures/wk1-vars.py" download="download">wk1-vars.py</a>
 ## Live Coding
 
 ### Python Interpreter
