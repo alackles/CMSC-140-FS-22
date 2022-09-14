@@ -8,7 +8,7 @@ toc_icon: "cog"
 
 # Homework
 
-[Homework 1](/CMSC-140-FS-22/hwk/hwk1/)
+[Homework 1](/CMSC-140-FS-22/hwk/hwk1)
 
 # Labs
 
@@ -19,7 +19,7 @@ Coming soon.
 # Lecture Notes
 ## Week 1
 
-[Variables, Numbers, Strings](/CMSC-140-FS-22/lectures/wk1-vars.md)
+[Variables, Numbers, Strings](/CMSC-140-FS-22/lectures/wk1-vars)
 
 # Guides
 

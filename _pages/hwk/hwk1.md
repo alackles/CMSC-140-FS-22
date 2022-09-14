@@ -1,6 +1,6 @@
 ---
 title: Homework 1
-permalink: /hwk/hwk1
+permalink: /hwk/hwk1/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
