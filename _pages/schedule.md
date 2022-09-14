@@ -14,7 +14,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
 | M 9/12 | Intro to the course: Assessments, projects, and (un)grades | Syllabus | |
-| W 9/14 | Variables, Numbers, Types of Data | [Sweigart 1][sweigart-1]| HW 1 |
+| W 9/14 | Variables, Numbers, Types of Data | [Sweigart 1][sweigart-1]| [HW 1][hw-1] |
 | Th 9/15 | _Lab: Setting up your Python environment_| | |
 | **Week 2** | **Conditionals & Loops** | | |
 | M 9/19 | if/else and match/case | [Sweigart 2][sweigart-2] through "elif statements"; Supplement: [match-case][wk1-supp] | |
@@ -65,5 +65,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [sweigart-7]: https://automatetheboringstuff.com/2e/chapter7/ 
 [sweigart-9]: https://automatetheboringstuff.com/2e/chapter9/ 
 
+
+[hw-1]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk1/
 
 [wk1-supp]: https://towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025
