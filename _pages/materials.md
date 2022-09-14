@@ -10,6 +10,17 @@ toc_icon: "cog"
 
 [Homework 1](/CMSC-140-FS-22/hwk/hwk1/)
 
+# Labs
+
+## Week 1
+
+Coming soon.
+
+# Lecture Notes
+## Week 1
+
+[Variables, Numbers, Strings](/CMSC-140-FS-22/lectures/wk1-vars.md)
+
 # Guides
 
 [Install Python (Windows)](/CMSC-140-FS-22/guides/install-windows)
