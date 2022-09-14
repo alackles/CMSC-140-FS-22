@@ -1,3 +1,10 @@
+---
+title: Homework 1
+permalink: /hwk/hwk1
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
 # Homework 1: Basics of Python Syntax
 
 **Due:** Thursday 9/22 @ 9:50 AM

@@ -1,3 +1,10 @@
+---
+title: Week 1 Day 2
+permalink: /lectures/wk1-vars/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+---
 # Variables, Numbers, and Strings
 
 Download the live coding file we did in class here: <a href="CMSC-140-FS-22/lectures/wk1-vars.py" download="download">wk1-vars.py</a>
