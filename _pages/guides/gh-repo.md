@@ -112,6 +112,8 @@ _It's a little different, of course, in that most apps will sync themselves wher
 
 To do this, go to your repository on github and copy the link to the repository. **Note that you should use the HTTPS link, as we haven't set up any other method.**
 
+This should be YOUR repository on YOUR GitHub account, not mine.
+
 ![copy](/CMSC-140-FS-22/assets/img/copy_remote.png)
 
 Next, we need to tell our local repository where to find the remote repository using this link. We do this with the `remote add` command:
