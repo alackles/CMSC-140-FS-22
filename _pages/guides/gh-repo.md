@@ -20,8 +20,6 @@ If you don't have one or more of those things, you will have to get them set up 
 
 If you have any problems with this walkthrough, please don't hesitate to ask!
 
-Note that **some of you may have gotten through Steps 1-x in class**. You don't need to repeat these.
-
 ## Steps to Sync
 
 ### Step 1: Initializing your Local Repository
@@ -186,6 +184,14 @@ At this point, everything should be synced, and we will be able to get more in d
 ### Step 7: Submit your Repo on Canvas
 
 Don't forget to send a link to your github repo for the 1st lab on Canvas!
+
+## A Note on GitHub Usage
+
+With all this legwork to get setup, it might seem silly at this point to you to be using GitHub at all. After all, what's the point of any of this? Why not just save things normally? 
+
+One major reason is that once you do the up-front work, it's very, very easy to sync versions of projects. This is only first-time setup, after all. Once it's done, it's much simpler. Here, for example, is all of the steps I took to upload this entire guide to my course website:
+
+![example upload](/CMSC-140-FS-22/assets/img/full_ex.png)
 
 ## Common Problems
 
