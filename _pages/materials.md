@@ -14,7 +14,7 @@ toc_icon: "cog"
 
 ## Week 1
 
-Coming soon.
+[Guide to GitHub Repos](/CMSC-140-FS-22/guides/github-repo)
 
 # Lecture Notes
 ## Week 1
