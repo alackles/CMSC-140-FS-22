@@ -1,6 +1,6 @@
 ---
 title: Week 1 Day 2
-permalink: /lectures/wk1-vars/
+permalink: /lectures/wk2-if/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
