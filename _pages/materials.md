@@ -29,6 +29,10 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Variables, Numbers, Strings](/CMSC-140-FS-22/lectures/wk1-vars)
 
+## Week 2
+
+[If/Else](/CMSC-140-FS-22/lectures/wk2-if)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
