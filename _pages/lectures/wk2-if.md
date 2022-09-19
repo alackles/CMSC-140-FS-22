@@ -29,6 +29,7 @@ Unlike numbers and strings though, which can take on an infinite number of value
 
 This may not sound very useful, but it's really the key cornerstone of programming! Many, many, many times, you will be checking whether something is `True` or `False` and using that information to make choices in your program. 
 
+
 ### Boolean Operators 
 
 Like numbers and strings, you can create booleans out of component pieces. Just like you can add 1 and 1 together and get 2, you can combine `True`s and `False`s to get new values. 
@@ -121,6 +122,20 @@ Works exactly the same way as greater than/equals.
 4 + 1 < 5  #false
 4 + 1 <= 5 # true
 
+```
+
+NOTE: numbers and strings will also evaluate to True or False _in the context of comparison operators_. `0` and empty strings will evaluate to `False`. Everything else will evaluate to `True`.
+
+```py
+print(7 and 5)
+print("" and "string")
+```
+
+But they are NOT equal to True and False.
+
+```py
+print(7 == True) # false; they're not the same
+print((7 and 5) == True) # true; the first expression evaluates to True, so the two are equal.  
 ```
 
 Pause here to do exercise 1.
