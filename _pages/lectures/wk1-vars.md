@@ -7,7 +7,7 @@ toc_icon: "cog"
 ---
 # Variables, Numbers, and Strings
 
-Download the live coding file we did in class here: <a href="/CMSC-140-FS-22/lectures/wk1-vars.py" download="download">wk1-vars.py</a>
+View the code for the class on GitHub [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk1-vars.py).
 ## Live Coding
 
 ### Python Interpreter

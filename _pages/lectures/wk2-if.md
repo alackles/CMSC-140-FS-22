@@ -8,6 +8,8 @@ toc_icon: "cog"
 
 # If/Else and Match/Case
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk2-if.py).
+
 So far we've been looking at simple evaluations and expressions in Python. In today's class we're going really start to get into _control flow_: how to make your program make choices. 
 
 ## Lecture/Live Coding
