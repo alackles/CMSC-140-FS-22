@@ -124,6 +124,8 @@ Works exactly the same way as greater than/equals.
 
 ```
 
+## Truthy and Falsey Values
+
 NOTE: numbers and strings will also evaluate to True or False _in the context of comparison operators_. `0` and empty strings will evaluate to `False`. Everything else will evaluate to `True`.
 
 ```py
