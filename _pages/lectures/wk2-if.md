@@ -302,5 +302,9 @@ Enter operation [a, s, d, m]: d
 8 divided by 4 is 2.
 ```
 
+-------
+
+_Footnotes:_
+
 
 [^1]: It _sort of_ matters. The expression on the left side of `and` will be evaluated first, so if it evaluates to `False`, the expression on the right will never be evaluated. This can be useful in certain specific cases where you are checking whether something is true that may be very computationally intensive. This won't come up in this class, but just in case you are curious about the finer details!
