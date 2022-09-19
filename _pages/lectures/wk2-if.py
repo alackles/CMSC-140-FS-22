@@ -1,4 +1,4 @@
-""" my_number = 7
+my_number = 7
 my_string = "CMSC 140"
 my_bool = True
 
@@ -54,7 +54,7 @@ print(4 < 5)
 print(True and False != True or True)
 print((1 and 2) >= True == False)
 print("cat" and "dog" >= ("dog" == "cat")) 
-print(5 >= 3 and 2 == 4) """
+print(5 >= 3 and 2 == 4) 
 
 # If Statements!
 
@@ -109,6 +109,8 @@ elif class_code >= 400:
 #    print("I don't know this class.")
 
 case_key = 140
+
+# this only works in python 3.10 and higher
 
 match case_key:
     case 140:
