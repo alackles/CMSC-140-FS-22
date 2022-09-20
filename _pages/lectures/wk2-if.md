@@ -1,5 +1,5 @@
 ---
-title: Week 1 Day 2
+title: Week 2 Day 1 - If/Else
 permalink: /lectures/wk2-if/
 toc: true
 toc_label: "Table of Contents"

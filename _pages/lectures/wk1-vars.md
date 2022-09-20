@@ -1,5 +1,5 @@
 ---
-title: Week 1 Day 2
+title: Week 1 Day 2 - Variables
 permalink: /lectures/wk1-vars/
 toc: true
 toc_label: "Table of Contents"
