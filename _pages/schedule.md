@@ -18,12 +18,12 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 9/15 | _Lab: Setting up your Python environment_| | |
 | **Week 2** | **Conditionals & Loops** | | |
 | M 9/19 | if/else and match/case ([notes][notes-wk2-if])| [Sweigart 2][sweigart-2] through "elif statements"; Supplement: [match-case][wk1-supp] | |
-| W 9/21 | for and while loops ([notes][notes-wk2-loops]) | [Sweigart 2][sweigart-2] remaining | HW2 |
+| W 9/21 | for and while loops ([notes][notes-wk2-loops]) | [Sweigart 2][sweigart-2] remaining | [HW 2][hw-2] |
 | Th 9/22 | _Lab: The Collatz Conjecture_ | HW1 | |
 | **Week 3** | **Functions** | | |
 | M 9/26 | Functions & call stacks| [Sweigart 3][sweigart-3] through "The Call Stack" | |
 | W 9/28 | Imports and scope | [Sweigart 3][sweigart-3] remaining | HW3 |
-| Th 9/29 | _Lab: Revise and Resubmit_ | HW2 | |
+| Th 9/29 | _Lab: Revise and Resubmit_ | HW2 | |]
 | **Week 4** | **Lists & Dictionaries** | | |
 | M 10/3 | Lists | [Sweigart 4][sweigart-4] | Mid-Semester Eval |
 | W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | HW4 |
@@ -68,6 +68,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [wk1-supp]: https://towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025
 
 [hw-1]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk1/
+[hw-2]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk2/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/

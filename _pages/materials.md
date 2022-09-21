@@ -13,6 +13,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
 | [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | TBD |
+| [Homework 2](/CMSC-140-FS-22/hwk/hwk2) | W 9/21 | Th 9/29 | TBD |
 
 # Labs
 
