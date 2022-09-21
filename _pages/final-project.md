@@ -125,8 +125,7 @@ Your GitHub repository should:
    - What your project does (the game, visualization, etc) in 1-2 sentences.
    - What outside tools (modules, packages, datasets) were used to create your project 
    - What contributions you made to the project in 1-2 sentences
-   - How a user can 
-- Instructions for how to download and run your project, or instructions on how to run your project if web-hosted
+- Have instructions for how to download and run your project, or instructions on how to run your project if web-hosted
 - Contain all the code necessary for someone to download and run your project on their own computer without going to any outside source (besides possibly installing python or python modules)
 ## Ideas
 
