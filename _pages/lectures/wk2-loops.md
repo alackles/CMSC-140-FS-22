@@ -6,6 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk2-loops.py).
 # Loops
 
 You may have noticed our book is called _Automate the Boring Stuff with Python_. So far we haven't really seen how that's applicable; while we have definitely written some code to do some easy things for us, like check alphabetical ordering, it's not like that will help us much with doing the kinds of tasks usually described as _boring_. Such tasks are usually repetitive, like renaming a lot of files at once, converting a lot of values from one unit to another unit, or similar kinds of tasks you may have had to do by hand. 
