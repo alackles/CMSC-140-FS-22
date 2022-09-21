@@ -17,8 +17,8 @@ Reading should be completed **before** the class day that they are listed; the m
 | W 9/14 | Variables, Numbers, Types of Data ([notes][notes-wk1-vars]) | [Sweigart 1][sweigart-1]| [HW 1][hw-1] |
 | Th 9/15 | _Lab: Setting up your Python environment_| | |
 | **Week 2** | **Conditionals & Loops** | | |
-| M 9/19 | if/else and match/case | [Sweigart 2][sweigart-2] through "elif statements"; Supplement: [match-case][wk1-supp] | |
-| W 9/21 | for and while loops | [Sweigart 2][sweigart-2] remaining | HW2 |
+| M 9/19 | if/else and match/case ([notes][notes-wk2-if])| [Sweigart 2][sweigart-2] through "elif statements"; Supplement: [match-case][wk1-supp] | |
+| W 9/21 | for and while loops ([notes][notes-wk2-loops]) | [Sweigart 2][sweigart-2] remaining | HW2 |
 | Th 9/22 | _Lab: The Collatz Conjecture_ | HW1 | |
 | **Week 3** | **Functions** | | |
 | M 9/26 | Functions & call stacks| [Sweigart 3][sweigart-3] through "The Call Stack" | |
@@ -69,4 +69,6 @@ Reading should be completed **before** the class day that they are listed; the m
 
 [hw-1]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk1/
 
-[notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars.md
+[notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
+[notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/
+[notes-wk2-loops]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-loops/

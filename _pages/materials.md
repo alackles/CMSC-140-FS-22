@@ -33,6 +33,8 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [If/Else](/CMSC-140-FS-22/lectures/wk2-if)
 
+[Loops](/CMSC-140-FS-22/lectures/wk2-loops)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
