@@ -30,7 +30,7 @@ Each should be named as `{familyname}_q{number}.{ext}`. For exapmle, my submissi
 `ackles_q2.py`  
 `ackles_q3.py`  
 `ackles_q4.py`  
-`ackles_p5.pdf`  
+`ackles_q5.pdf`  
 
 (You can format your family name any way you want, just do not include spaces.)
 
