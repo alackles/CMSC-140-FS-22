@@ -22,6 +22,9 @@ Labs will be made available before class. Each lab will have to be turned in on 
 ## Week 1
 
 [Guide to GitHub Repos](/CMSC-140-FS-22/guides/github-repo)
+## Week 2
+
+[The Collatz Conjecture](/CMSC-140-FS-22/labs/lab2)
 
 # Lecture Notes
 
