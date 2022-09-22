@@ -27,6 +27,8 @@ It currently has not been proven whether this is true or false.
 
 It seems like an extremely easy problem to get a handle on, and yet expert mathematicians are unable to determine whether it is true for every number or whether there are some exceptions. 
 
+For more, you can check out this nice pop-sci write-up in [Quanta Magazine](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/). But we aren't really interested in solving it; we just want to implement it. 
+
 ## Lab Overview
 
 Each of you will make your own script for the collatz conjecture which takes a number, performs the operations above, and outputs the chain of numbers taken to get to the answer.
