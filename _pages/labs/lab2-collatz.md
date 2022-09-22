@@ -37,9 +37,9 @@ You will build up this program with additional functionality over the course of 
 
 ### Assessment
 
-For Proficiency credit, the file you turn in for lab should correctly output the length of the longest Collatz chain in a particular range (see below).
+For Proficiency credit, turn in Part 1.
 
-For Mastery credit, the file you turn in for lab should produce the correct output as well as have good variable names, useful comments, and good spacing and syntax. 
+For Mastery credit, turn in Parts 1 and 2. 
 
 ### A Note on Learning
 
