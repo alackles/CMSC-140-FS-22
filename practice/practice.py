@@ -1,22 +1,37 @@
-# This program will compare your name to my name
-user_name = input("Please enter your name: ")
-my_name = "Acacia"
+""" filename = "project2.pdf"
 
-if user_name == my_name:
-    print("We have the same name!")
-elif user_name < my_name:
-    print("Your name is earlier than mine in the alphabet.")
-elif user_name > my_name:
-    print("Your name is later in the alphabet than my name.")
+i = 0
+while i < 5: 
+    if filename == "project.pdf":
+        # open the file
+        print("The file is open.")
+        print(filename)
+    elif filename == "project2.pdf":
+        print("The second file is open.")
+        print(filename)
+    else:
+        print("Wrong filename.")
+        print(filename)
+    i += 1
+    print(i)
 
+ """
 
+product = 1
+number = 0
+while number < 10:
+    number += 1
+    print(number)
+    product *= number
+    #[do something here]
+print("product: ", product)
 
-""" i = 101
-if i < 5:
-    print("i is less than 5")
-elif i < 20:
-    print("i is less than 20")
-elif i < 100:
-    print("i less than 100")
-else:
-    print("Something else") """
+# for [iterator] in range([the range you want])
+
+product = 1
+for number in range(1,10+1):
+    print("for num: ", number)
+    product *= number
+print("for product: ", product)
+
+print("This string has \"quotation\" marks")
