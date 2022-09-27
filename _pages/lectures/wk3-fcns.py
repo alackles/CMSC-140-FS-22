@@ -1,4 +1,4 @@
-""" # functions!! 
+ # functions!! 
 
 print("Hello")
 #num = input("Enter a number: ")
@@ -18,9 +18,9 @@ print(my_sum)
 my_sum = 0
 for i in range(1, 101):
     my_sum += i 
-print(my_sum) """
+print(my_sum) 
 
-""" def our_first_function():
+def our_first_function():
     print("This is a function")
     a = 7 + 2 
     print(a)
@@ -70,7 +70,7 @@ def new_adder(start, stop):
     print("hello there")
 print(new_adder(1000, 2500))
 print(new_adder(3, 4))
- """
+
 def return_7(arg1, arg2, arg3):
     my_number = arg1 + arg2
     this_cool_string = "print out " + str(arg3) + "!!!!"
@@ -97,4 +97,12 @@ ex4 = approx_log(16,3)
 print(ex3)
 print(ex4)
 
-ex5 = approx_log(10)
+
+
+num = 0
+def incrementer():
+    num += 1
+    return num
+
+print(num)
+print(incrementer())
