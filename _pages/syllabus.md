@@ -162,7 +162,7 @@ Below is an outline of which assessments match to which learning objectives, and
 - Final project 
 
 **L5: Code Review** [3 of 4]
- - Week 3 In-Class Project
+ - Homework 3
  - Week 8 Lab: Debugging
  - Week 9 In-Class Project 
  - Final project feedback
