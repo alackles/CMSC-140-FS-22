@@ -12,19 +12,17 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
-| [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | TBD |
+| [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | Tu 10/4 |
 | [Homework 2](/CMSC-140-FS-22/hwk/hwk2) | W 9/21 | Th 9/29 | TBD |
 
 # Labs
 
-Labs will be made available before class. Each lab will have to be turned in on Canvas; you should be able to turn it in by the end of class, but as always, later submissions are accepted.
+Labs will be made available before class. Each lab will have to be turned in on Canvas; you should be able to turn it in by the end of class, but as always, later submissions are accepted and .
 
-## Week 1
-
-[Guide to GitHub Repos](/CMSC-140-FS-22/guides/github-repo)
-## Week 2
-
-[The Collatz Conjecture](/CMSC-140-FS-22/labs/lab2)
+| Lab Link | Date | Guaranteed Feedback |  
+| ------ | ------ | ------ |
+| [Week 1: GitHub](/CMSC-140-FS-22/guides/github-repo) | Th 9/15 | F 9/23 |
+| [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | TBD |
 
 # Lecture Notes
 
