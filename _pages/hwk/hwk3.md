@@ -16,23 +16,22 @@ toc_icon: "cog"
 - **L4**: Style
 - **L5**: Code Review
 
-The purpose of this homework is to give you practice with if/else statements and with writing loops. Some of it might feel repetitive from things we do in class or in lab. That's because it is! It's meant to have a certain amount of repetition so that you become familiar with the structure of an if statement and a loop through repeated practice.
+The purpose of this homework is to give you more practice writing functions and analyzing the kind of code we've looked at in class so far. Notice that you have an additional LO for this homework, Code Review, which is about your ability to read and understand code someone else has written. 
 
 ## Submission Guidelines
 
-You will turn this homework to Canvas under **Homework 2**. 
+You will turn this homework to Canvas under **Homework 3**. 
 
 You should submit your homework as separate files, one for each question. 
 
-The first 4 files should `.py` files. The last file should be a `.pdf` file with a short response. 
+The first 2 files should `.py` files. The last 2 files should be a `.pdf` or `.txt` file with a short response. 
 
 Each should be named as `{familyname}_q{number}.{ext}`. For exapmle, my submissions would be:
 
 `ackles_q1.py`  
 `ackles_q2.py`  
-`ackles_q3.py`  
-`ackles_q4.py`  
-`ackles_q5.pdf`  
+`ackles_q3.pdf`
+`ackles_q4.pdf`  
 
 (You can format your family name any way you want, just do not include spaces.)
 
@@ -51,8 +50,6 @@ Write function called `longest_collatz()` that:
 Note that you are not printing the length of the longest chain, only the number it originated from.
 
 You can use the wikipedia page on the Collatz Conjecture, which has [some longest chains in a particular range](https://en.wikipedia.org/wiki/Collatz_conjecture#Empirical_data), to check your work.
-
-
 
 
 ### Q2: A Functional Random Number Guesser
