@@ -14,6 +14,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | ------ | ------ | ------ | -------- |
 | [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | Tu 10/4 |
 | [Homework 2](/CMSC-140-FS-22/hwk/hwk2) | W 9/21 | Th 9/29 | TBD |
+| [Homework 3](/CMSC-140-FS-22/hwk/hwk3) | W 9/28 | Th 10/6 | TBD |
 
 # Labs
 
@@ -22,7 +23,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
 | [Week 1: GitHub](/CMSC-140-FS-22/guides/github-repo) | Th 9/15 | F 9/23 |
-| [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | TBD |
+| [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | Tu 10/4 |
 
 # Lecture Notes
 
