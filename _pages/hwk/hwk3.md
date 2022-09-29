@@ -114,8 +114,8 @@ Consider the following code.
 
 ```py
 def silly_program():
-    # Q2 MARKER
     x = 0
+    # Q2 MARKER
     while x < 2:
         for i in range(3):
             print(i)
