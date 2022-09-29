@@ -23,7 +23,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | **Week 3** | **Functions** | | |
 | M 9/26 | Functions ([notes][notes-wk3-functions])| [Sweigart 3][sweigart-3] through "The Call Stack" | |
 | W 9/28 | Call stacks and scope ([notes][notes-wk3-scope]) | [Sweigart 3][sweigart-3] remaining | [HW 3][hw-3] |
-| Th 9/29 | _Lab: Revise and Resubmit_ | HW2 | |]
+| Th 9/29 | [_Lab: Revise and Resubmit_][lab-3] | HW2 | |]
 | **Week 4** | **Lists & Dictionaries** | | |
 | M 10/3 | Lists | [Sweigart 4][sweigart-4] | Mid-Semester Eval |
 | W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | HW4 |
@@ -72,6 +72,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [hw-3]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk3/
  
 [lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2-collatz/
+[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3-revise/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/

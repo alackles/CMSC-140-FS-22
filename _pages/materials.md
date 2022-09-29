@@ -23,7 +23,8 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
 | [Week 1: GitHub](/CMSC-140-FS-22/guides/github-repo) | Th 9/15 | F 9/23 |
-| [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | Tu 10/4 |
+| [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2-collatz) | Th 9/22 | Tu 10/4 |
+| [Week 3: Revise & Resubmit](/CMSC-140-FS-22/labs/lab3-revise) | Th 9/29| TBD |
 
 # Lecture Notes
 
