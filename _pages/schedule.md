@@ -71,8 +71,8 @@ Reading should be completed **before** the class day that they are listed; the m
 [hw-2]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk2/
 [hw-3]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk3/
  
-[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2-collatz/
-[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3-revise/
+[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
+[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/
