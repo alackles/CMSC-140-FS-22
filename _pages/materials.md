@@ -43,6 +43,11 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 [Functions](/CMSC-140-FS-22/lectures/wk3-functions)
 
 [Scope](/CMSC-140-FS-22/lectures/wk3-scope)
+## Week 4
+
+[Import](/CMSC-140-FS-22/lectures/wk4-imports)
+
+[Lists](/CMSC-140-FS-22/lectures/wk4-lists)
 
 # Guides
 
