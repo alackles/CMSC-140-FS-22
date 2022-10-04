@@ -1,11 +1,12 @@
 ---
 title: Week 4 Day 1 - Import 
-permalink: /lectures/wk4-import/
+permalink: /lectures/wk4-imports/
 toc: true
 toc_label: "table of contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk4-imports.py).
 # Imports
 
 I've been promising we're going to learn about imports for a while now, so we're finally going to do the crash-course. 

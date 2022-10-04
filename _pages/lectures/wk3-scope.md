@@ -6,6 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk3-scope.py).
 # Call Stack and Scope
 
 For most of the previous classes we've been learning how to get Python to do certain things that we want it to do, but not necessarily how it operates. In many cases this is fine; we don't need to know every single thing the Python language is doing in order to write and execute our programs.

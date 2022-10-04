@@ -6,6 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk3-fcns.py).
 # Functions
 
 Today's class is about building your own functions in order to use the same piece of code to perform different tasks. We did this a little bit with conditional statements (if/else) and with loops (both while and for), but recall how in those cases when we wanted a new input, we would have to go back and delete the old input to run the code again. Functions make code more re-usable. 

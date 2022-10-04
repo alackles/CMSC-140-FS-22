@@ -6,6 +6,7 @@ toc_label: "table of contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk4-lists.py).
 # Lists
 
 One thing that will make our programs a lot more powerful is the ability to store multiple pieces of data in the same place. This will make it easier to access as well as easier to manipulate. In Python, the most common place to store multiple pieces of data is in a _list_.
