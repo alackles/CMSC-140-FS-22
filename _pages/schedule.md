@@ -25,7 +25,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | W 9/28 | Call stacks and scope ([notes][notes-wk3-scope]) | [Sweigart 3][sweigart-3] remaining | [HW 3][hw-3] |
 | Th 9/29 | [_Lab: Revise and Resubmit_][lab-3] | HW2 | |]
 | **Week 4** | **Lists & Dictionaries** | | |
-| M 10/3 | Lists | [Sweigart 4][sweigart-4] | Mid-Semester Eval |
+| M 10/3 | Imports ([notes][notes-wk4-imports]) & Lists ([notes][notes-wk4-lists]) | [Sweigart 4][sweigart-4] | [Mid-Semester Eval][mid-eval] |
 | W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | HW4 |
 | Th 10/6 | _Lab: My Favorite Movie_ | HW3| |
 | **Week 5** | **Strings & Pattern Matching** | | |
@@ -79,3 +79,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk2-loops]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-loops/
 [notes-wk3-functions]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-functions/
 [notes-wk3-scope]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-scope/
+[notes-wk4-imports]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-imports/
+[notes-wk4-lists]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-scope/
+
+[mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
