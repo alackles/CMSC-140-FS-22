@@ -26,7 +26,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 9/29 | [_Lab: Revise and Resubmit_][lab-3] | HW2 | |]
 | **Week 4** | **Lists & Dictionaries** | | |
 | M 10/3 | Imports ([notes][notes-wk4-imports]) & Lists ([notes][notes-wk4-lists]) | [Sweigart 4][sweigart-4] | [Mid-Semester Eval][mid-eval] |
-| W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | HW4 |
+| W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | [HW4][hw-4] |
 | Th 10/6 | _Lab: My Favorite Movie_ | HW3| |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings | [Sweigart 6][sweigart-6] | |
@@ -70,6 +70,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [hw-1]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk1/
 [hw-2]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk2/
 [hw-3]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk3/
+[hw-4]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk4/
  
 [lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/

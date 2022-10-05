@@ -15,7 +15,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | Tu 10/4 |
 | [Homework 2](/CMSC-140-FS-22/hwk/hwk2) | W 9/21 | Th 9/29 | Tu 10/11 |
 | [Homework 3](/CMSC-140-FS-22/hwk/hwk3) | W 9/28 | Th 10/6 | TBD |
-| [Homework 4](/CMSC-140-FS-22/hwk/hwk4) | W 10/5 | Th 10/6 | TBD |
+| [Homework 4](/CMSC-140-FS-22/hwk/hwk4) | W 10/5 | Th 10/13 | TBD |
 
 # Labs
 
