@@ -52,6 +52,8 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Lists](/CMSC-140-FS-22/lectures/wk4-lists)
 
+[Dicts](/CMSC-140-FS-22/lectures/wk4-dicts)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
