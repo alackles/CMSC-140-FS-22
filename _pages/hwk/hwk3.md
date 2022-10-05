@@ -8,7 +8,7 @@ toc_icon: "cog"
 
 # Homework 3: Functions
 
-**Due:** Thursday 9/29 @ 9:50 AM
+**Due:** Thursday 10/6 @ 9:50 AM
 
 **Learning Objectives**
 
