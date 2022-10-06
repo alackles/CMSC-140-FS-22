@@ -73,7 +73,7 @@ Call the `print_board()` function on your battleship board to see it print out.
 
 For the next part of the lab, we will start building the function that allows a user to pick a battleship location and then to start guessing. This location shouldn't be displayed on the board, but instead stored elsewhere in the function. 
 
-Write a function `play_battleship()` that takes a single argument, `board`, as its parameter. This argument should be the entire dictionary that holds the battleship board (just like the `print_board()` function.) For this part, the function should do the following:
+Write a function `battleship()` that takes a single argument, `board`, as its parameter. This argument should be the entire dictionary that holds the battleship board (just like the `print_board()` function.) For this part, the function should do the following:
 
 1. When called, ask the user to input the location they want to put their battleship. 
 2. Save that location in two new variables, one for the column and one for the row.
@@ -102,7 +102,7 @@ Current Board:
 
 Next, we need to add functionality that allows us to look for the ship. First, make sure you know how to take a single guess from the user. 
 
-Add the following functionality to your `play_battleship()` function:
+Add the following functionality to your `battleship()` function:
 
 1. Take a single guess from the user about where the ship might be. Like before, take both the column and the row as separate inputs.
 2. If the guess is correct, change the location to a "!" and print, "You won!"
