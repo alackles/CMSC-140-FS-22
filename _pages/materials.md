@@ -26,6 +26,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | [Week 1: GitHub](/CMSC-140-FS-22/guides/github-repo) | Th 9/15 | F 9/23 |
 | [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | Tu 10/4 |
 | [Week 3: Revise & Resubmit](/CMSC-140-FS-22/labs/lab3) | Th 9/29| Tu 10/11 |
+| [Week 4: Mini Battleship](/CMSC-140-FS-22/labs/lab4) | Th 10/6 | TBD |
 
 # Lecture Notes
 

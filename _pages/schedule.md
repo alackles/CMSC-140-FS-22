@@ -26,8 +26,8 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 9/29 | [_Lab: Revise and Resubmit_][lab-3] | HW2 | |]
 | **Week 4** | **Lists & Dictionaries** | | |
 | M 10/3 | Imports ([notes][notes-wk4-imports]) & Lists ([notes][notes-wk4-lists]) | [Sweigart 4][sweigart-4] | [Mid-Semester Eval][mid-eval] |
-| W 10/5 | Dictionaries | [Sweigart 5][sweigart-5] | [HW4][hw-4] |
-| Th 10/6 | _Lab: My Favorite Movie_ | HW3| |
+| W 10/5 | Dictionaries ([notes][notes-wk4-dicts]) | [Sweigart 5][sweigart-5] | [HW4][hw-4] |
+| Th 10/6 | [_Lab: Mini Battleship_][lab-4] | HW3| |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings | [Sweigart 6][sweigart-6] | |
 | W 10/12 | Regex | [Sweigart 7][sweigart-7] | HW5 | 
@@ -74,6 +74,7 @@ Reading should be completed **before** the class day that they are listed; the m
  
 [lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/
+[lab-4]: https://alackles.github.io/CMSC-140-FS-22/labs/lab4/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/
@@ -81,6 +82,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk3-functions]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-functions/
 [notes-wk3-scope]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-scope/
 [notes-wk4-imports]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-imports/
-[notes-wk4-lists]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-scope/
+[notes-wk4-lists]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-lists/
+[notes-wk4-dicts]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-dicts/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
