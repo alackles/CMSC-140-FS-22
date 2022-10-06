@@ -5,9 +5,9 @@ birthyear = int(input("What year were you born?: "))
 
 ans = input("Have you already had a bithday this year?: ")
 
-if ans == "yes" or "y" or "Yes" or "Y":
+if ans in ["yes","y", "Yes", "Y"]:
     age = curyear - birthyear
-elif ans == "no" or "n" or "No" or "N":
+elif ans == "no" or ans=="n" or ans=="No" or ans=="N":
     age = curyear - birthyear  - 1
 
 print("You are "+ str(age) + " years old.")
