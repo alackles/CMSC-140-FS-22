@@ -15,6 +15,8 @@ The purpose of this lab is to get more experience storing and retrieving data fr
 
 Otherwise, the contents should be identical; you'll only be working on a single file together this lab. 
 
+**If you aren't physically present in lab, you can submit the lab individually. Just note that you were not in attendance in your comment.**
+
 For the first part of the lab, one person should be typing and projecting their code onto the screens at your table; the other people should be giving suggestions. At each time when it says switch typing, pick someone else to type.  
 
 # Battleship
