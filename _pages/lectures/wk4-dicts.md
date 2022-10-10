@@ -6,6 +6,8 @@ toc_label: "table of contents"
 toc_icon: "cog"
 ---
 
+View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk4-dicts.py).
+
 # Dictionaries
 
 We learned last class about lists, which are collections of values indexable by integers. This class we'll talk about dictionaries, which are also collections of values, but are indexable by basically anything you want. 
