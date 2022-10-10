@@ -31,9 +31,9 @@ Reading should be completed **before** the class day that they are listed; the m
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings ([notes][notes-wk5-strings]) | [Sweigart 6][sweigart-6] | |
 | W 10/12 | Regex | [Sweigart 7][sweigart-7] | HW5 | 
-| Th 10/13 | _Lab: DNA Sequencing_ | HW4; Final Project Proposal | |
+| Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
-| M 10/17 | Pathing| [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
+| M 10/17 | Pathing | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
 | W 10/19 | File I/O | HW5; [Sweigart 9][sweigart-9] remaining | HW 6 | 
 | _Th 10/20_ | _NO LAB: READING PERIOD_ | | |
 | **Week 7** | **Advanced File Handling** | | |

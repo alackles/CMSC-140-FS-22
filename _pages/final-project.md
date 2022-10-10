@@ -14,7 +14,7 @@ Your final project for this course is either a game or visualization that shows 
 | Date | Milestone |
 | ----- | ------ |
 | 10/6-10/13 | Meetings with Pair Projects |
-| 10/13 | Proposal Due |
+| 10/17 | Proposal Due |
 | 11/3 | Rough Draft Due |
 | 11/10 | Peer Feedback Due |
 | 11/18 | Last due date for feedback on project |
