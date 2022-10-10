@@ -55,6 +55,10 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Dicts](/CMSC-140-FS-22/lectures/wk4-dicts)
 
+## Week 5
+
+[Strings](/CMSC-140-FS-22/lectures/wk5-strings)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 

@@ -1,6 +1,6 @@
 ---
 title: Week 5 Day 1 - Strings
-permalink: /lectures/wk4-strings/
+permalink: /lectures/wk5-strings/
 toc: true
 toc_label: "table of contents"
 toc_icon: "cog"
