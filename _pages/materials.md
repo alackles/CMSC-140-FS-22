@@ -66,3 +66,24 @@ Guides to installation practices or supplementary materials will be listed here.
 [Install Python (Windows)](/CMSC-140-FS-22/guides/install-windows)
 
 [Install Python (Mac)](/CMSC-140-FS-22/guides/install-mac)
+
+# Additional Practice
+
+Here are two sites for additional practice, each with solutions. These are available if you want to submit them; there's no need to do so. 
+
+## Basic Practice Problems
+
+[PYnative](https://pynative.com/python-exercises-with-solutions/)
+
+These problems are pretty straightforward ways to get used to the basics of Python programming
+
+It is split into sections by topic, and we've covered most everything up to the Dictionary exercises. 
+
+## Word Problems
+
+[w3resource](https://www.w3resource.com/python-exercises/)
+
+For problems more like the ones I ask on the homeworks, this site gives you more vague instructions about what to do with your program, and you have to practice interpreting it. 
+
+We have covered up to about #40 in class, but there may be things mixed in we haven't covered. 
+
