@@ -30,7 +30,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 10/6 | [_Lab: Mini Battleship_][lab-4] | HW3| |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings ([notes][notes-wk5-strings]) | [Sweigart 6][sweigart-6] | |
-| W 10/12 | Regex | [Sweigart 7][sweigart-7] | HW5 | 
+| W 10/12 | Regex ([notes][notes-wk5-regex]) | [Sweigart 7][sweigart-7] | HW5 | 
 | Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
 | M 10/17 | Pathing | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
@@ -85,5 +85,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk4-lists]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-lists/
 [notes-wk4-dicts]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-dicts/
 [notes-wk5-strings]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-strings/
+[notes-wk5-regex]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-regex/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
