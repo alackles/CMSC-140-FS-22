@@ -30,7 +30,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 10/6 | [_Lab: Mini Battleship_][lab-4] | HW3| |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings ([notes][notes-wk5-strings]) | [Sweigart 6][sweigart-6] | |
-| W 10/12 | Regex ([notes][notes-wk5-regex]) | [Sweigart 7][sweigart-7] | HW5 | 
+| W 10/12 | Regex ([notes][notes-wk5-regex]) | [Sweigart 7][sweigart-7] | [HW5][hw-5] | 
 | Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
 | M 10/17 | Pathing | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
@@ -71,6 +71,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [hw-2]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk2/
 [hw-3]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk3/
 [hw-4]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk4/
+[hw-5]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk5/
  
 [lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/
