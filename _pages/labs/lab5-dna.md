@@ -57,9 +57,9 @@ def generate_dna(tablenum):
     seq = "TAC" + seq[3:]
 
     # replace any premature stop codons with non-stops
-    seq.replace("ATT", "CAG")
-    seq.replace("ATC", "GGA")
-    seq.replace("ACT", "AAA")
+    seq = seq.replace("ATT", "CGG")
+    seq = seq.replace("ATC", "GGC")
+    seq = seq.replace("ACT", "GCG")
 
     # Add in a stop codon somewhere towards the end
     stops = ["ATT", "ATC", "ACT"]
