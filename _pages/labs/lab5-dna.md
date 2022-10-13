@@ -167,20 +167,6 @@ Remember when we installed pip way back at the beginning of class? This is why!
 
 Once you can successfully import matplotlib and numpy, it is pretty simple to get a histogram. All you have to do is the following:
 
-### Step 1: Use Numpy to get Unique Counts
-
-We first
-
-```py
-labels, counts = np.unique(your_list_name, return_counts = True)
-```
-
-This will return two things: the labels for your histogram, and the counts of each. The `unique` function here is returning a list that is all unique values in the list and how many times they appeared.
-
-## Step 2: Use Matplotlib to Plot the Counts
-
-Now, you can use matplotlib 
-
 ```
 plt.hist(your_list_name, bins = len(set(your_list_name)))
 plt.show()
