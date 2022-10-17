@@ -63,6 +63,10 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Regex](/CMSC-140-FS-22/lectures/wk5-regex)
 
+## Week 6
+
+[Pathing](/CMSC-140-FS-22/lectures/wk6-pathing)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
