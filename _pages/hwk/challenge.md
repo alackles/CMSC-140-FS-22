@@ -50,13 +50,13 @@ sum(n) = sum(n-1) + n
 
 So this becomes our recursive call. 
 
-Another thing you could calculate recursively is the binomial coefficient, \(n \choose k\), read _n choose k_. This often comes up in statistics and combinatorics.
+Another thing you could calculate recursively is the binomial coefficient, $$n \choose k\$$, read _n choose k_. This often comes up in statistics and combinatorics.
 
 $${n \choose k} = \frac{n!}{(n-k)! k!}$$
 
 Where ! is the [factorial](https://en.wikipedia.org/wiki/Factorial) operator.
 
-**Note!** We must have \(k < n\)
+**Note!** We must have $$k < n$$
 
 $n \choose k$ can be written recursively as follows:
 
