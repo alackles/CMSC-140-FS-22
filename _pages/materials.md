@@ -95,3 +95,9 @@ For problems more like the ones I ask on the homeworks, this site gives you more
 
 We have covered up to about #40 in class, but there may be things mixed in we haven't covered. 
 
+## Challenge Problems
+
+These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
+
+[Challenge Problems](/CMSC-140-FS-22/hwk/challenge)
+
