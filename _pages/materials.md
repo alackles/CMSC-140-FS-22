@@ -15,7 +15,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | [Homework 1](/CMSC-140-FS-22/hwk/hwk1) | W 9/14 | Th 9/22 | Tu 10/4 |
 | [Homework 2](/CMSC-140-FS-22/hwk/hwk2) | W 9/21 | Th 9/29 | Tu 10/11 |
 | [Homework 3](/CMSC-140-FS-22/hwk/hwk3) | W 9/28 | Th 10/6 | Tu 10/18 |
-| [Homework 4](/CMSC-140-FS-22/hwk/hwk4) | W 10/5 | Th 10/13 | TBD |
+| [Homework 4](/CMSC-140-FS-22/hwk/hwk4) | W 10/5 | Th 10/13 | Tu 10/25 |
 | [Homework 5](/CMSC-140-FS-22/hwk/hwk5) | W 10/12 | W 10/19 | TBD |
 
 # Labs
@@ -28,7 +28,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | [Week 2: Collatz](/CMSC-140-FS-22/labs/lab2) | Th 9/22 | Tu 10/4 |
 | [Week 3: Revise & Resubmit](/CMSC-140-FS-22/labs/lab3) | Th 9/29| Tu 10/11 |
 | [Week 4: Mini Battleship](/CMSC-140-FS-22/labs/lab4) | Th 10/6 | F 10/21 |
-| [Week 5: DNA Sequencing](/CMSC-140-FS-22/labs/lab5) | Th 10/13 | TBD |
+| [Week 5: DNA Sequencing](/CMSC-140-FS-22/labs/lab5) | Th 10/13 | Tu 10/25 |
 
 # Lecture Notes
 
