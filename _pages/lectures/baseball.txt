@@ -1,0 +1,31 @@
+Team,W,L
+Arizona Diamondbacks,74,88
+Atlanta Braves,101,61
+Baltimore Orioles,83,79
+Boston Red Sox,78,84
+Chicago Cubs,74,88
+Chicago White Sox,81,81
+Cincinnati Reds,62,100
+Cleveland Guardians,92,70
+Colorado Rockies,68,94
+Detroit Tigers,66,96
+Houston Astros,106,56
+Kansas City Royals,65,97
+Los Angeles Angels,73,89
+Los Angeles Dodgers,111,51
+Miami Marlins,69,93
+Milwaukee Brewers,86,76
+Minnesota Twins,78,84
+New York Mets,101,61
+New York Yankees,99,63
+Oakland Athletics,60,102
+Philadelphia Phillies,87,75
+Pittsburgh Pirates,62,100
+San Diego Padres,89,73
+San Francisco Giants,81,81
+Seattle Mariners,90,72
+St. Louis Cardinals,93,69
+Tampa Bay Rays,86,76
+Texas Rangers,68,94
+Toronto Blue Jays,92,70
+Washington Nationals,55,107

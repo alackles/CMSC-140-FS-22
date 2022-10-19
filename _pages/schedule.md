@@ -33,13 +33,13 @@ Reading should be completed **before** the class day that they are listed; the m
 | W 10/12 | Regex ([notes][notes-wk5-regex]) | [Sweigart 7][sweigart-7] | [HW5][hw-5] | 
 | Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
-| M 10/17 | Pathing | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
+| M 10/17 | Pathing ([notes][notes-wk6-pathing]) | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
 | W 10/19 | File I/O | HW5; [Sweigart 9][sweigart-9] remaining | HW 6 | 
 | _Th 10/20_ | _NO LAB: READING PERIOD_ | | |
 | **Week 7** | **Advanced File Handling** | | |
 | M 10/24 | File I/O Cont'd |  | |
 | W 10/26 | Individual Exploration | CHOOSE ONE OF: Sweigart 12-19 | |
-| Th 10/27 | _Lab: Housekeeping_ | HW6 | |
+| Th 10/27 | _Lab: Housekeeping_ | | |
 | **Week 8** | **Debugging** | | |
 | M 10/31 | Documentation and Error Handling | | | 
 | W 11/2 | Asking Good Questions | | |

@@ -67,6 +67,8 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Pathing](/CMSC-140-FS-22/lectures/wk6-pathing)
 
+[Basic File I/O](/CMSC-140-FS-22/lectures/wk6-basic-io)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
