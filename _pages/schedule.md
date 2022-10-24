@@ -34,10 +34,10 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
 | M 10/17 | Pathing ([notes][notes-wk6-pathing]) | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
-| W 10/19 | File I/O | HW5; [Sweigart 9][sweigart-9] remaining | HW 6 | 
+| W 10/19 | File I/O ([notes][notes-wk6-file]) | HW5; [Sweigart 9][sweigart-9] remaining | | 
 | _Th 10/20_ | _NO LAB: READING PERIOD_ | | |
 | **Week 7** | **Advanced File Handling** | | |
-| M 10/24 | File I/O Cont'd |  | |
+| M 10/24 | File I/O Cont'd ([notes][notes-wk7-file])|  | |
 | W 10/26 | Individual Exploration | CHOOSE ONE OF: Sweigart 12-19 | |
 | Th 10/27 | _Lab: Housekeeping_ | | |
 | **Week 8** | **Debugging** | | |
@@ -87,5 +87,8 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk4-dicts]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-dicts/
 [notes-wk5-strings]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-strings/
 [notes-wk5-regex]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-regex/
+[notes-wk6-pathing]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-pathing/
+[notes-wk6-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-basic-io/
+[notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-adv-io/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
