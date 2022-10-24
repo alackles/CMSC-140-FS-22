@@ -140,14 +140,15 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 Below is an outline of which assessments match to which learning objectives, and how many mastery credits you need for each in brackets. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
 
 **L1: Basics** [10 of 13]
-- All Homeworks (HW1-HW6)
+- All Homeworks (HW1-HW5)
 - Labs: Week 1-5, Week 7
+- Final Project Draft
 - Final Project
 
 **L2: Data Processing** [3 of 4]
-- HW6 
 - Week 6 In-Class Project
 - Week 7 Lab: Housekeeping 
+- Final Project Draft 
 - Final project
 
 **L3: Debugging** [3 of 4]
@@ -157,8 +158,9 @@ Below is an outline of which assessments match to which learning objectives, and
 - Revision of any homework where you did _not_ earn mastery credit
 
 **L4: Style** [9 of 12]
-- All Homeworks (HW1-HW6)
+- All Homeworks (HW1-HW5)
 - Labs: Weeks 1-5
+- Final project draft
 - Final project 
 
 **L5: Code Review** [3 of 4]
