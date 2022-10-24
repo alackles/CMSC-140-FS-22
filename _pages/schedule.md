@@ -89,6 +89,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk5-regex]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-regex/
 [notes-wk6-pathing]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-pathing/
 [notes-wk6-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-basic-io/
-[notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-adv-io/
+[notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
