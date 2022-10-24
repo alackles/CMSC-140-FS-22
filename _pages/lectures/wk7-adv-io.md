@@ -66,7 +66,9 @@ Reading in tabular data like this is a very common use of Python, so there are a
 
 One of them is pandas, which handles files in CSV format. CSV file format is basically how things like excel spreadsheets are stored. If you've used R, you'll be familiar with a lot of the syntax of Pandas.
 
-Pandas has a lot of features, so we'll just look at a few of them.
+Pandas has a lot of features, so we'll just look at a few of them. Here's a good supplementary guide to these notes if this all makes good sense to you, or if you have some experience with R and want to know how to do similar things in Python.
+
+[Supplement.](https://medium.com/bhavaniravi/python-pandas-tutorial-92018da85a33)
 
 ### Installing Pandas
 
