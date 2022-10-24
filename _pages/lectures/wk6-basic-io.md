@@ -161,6 +161,6 @@ Mcauley Duran
 
 ## Exercise 2
 
-Download [this text file](link) containing the win-loss records of all the Major League Baseball teams for 2022 (sourced from [here](https://www.baseball-reference.com/leagues/majors/2022-standings.shtml)). 
+Download (or copy & paste into a file) [this text file](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/baseball.txt) containing the win-loss records of all the Major League Baseball teams for 2022 (sourced from [here](https://www.baseball-reference.com/leagues/majors/2022-standings.shtml)). 
 
 Write a Python script to read in the information and output the name of the statistically best team; that is, the one with the highest ratio of Wins to Losses.
