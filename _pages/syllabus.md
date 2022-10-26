@@ -146,10 +146,10 @@ Below is an outline of which assessments match to which learning objectives, and
 - Final Project
 
 **L2: Data Processing** [3 of 4]
-- Week 6 In-Class Project
 - Week 7 Lab: Housekeeping 
+- Week 8 Lab: Debug Challenge
 - Final Project Draft 
-- Final project
+- Final Project
 
 **L3: Debugging** [3 of 4]
 - HW5 

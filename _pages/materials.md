@@ -69,7 +69,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Basic File I/O](/CMSC-140-FS-22/lectures/wk6-basic-io)
 
-# Week 7
+## Week 7
 
 [Advanced File I/O w/ Pandas](/CMSC-140-FS-22/lectures/wk7-adv-io)
 # Guides
