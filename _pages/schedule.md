@@ -38,12 +38,12 @@ Reading should be completed **before** the class day that they are listed; the m
 | _Th 10/20_ | _NO LAB: READING PERIOD_ | | |
 | **Week 7** | **Advanced File Handling** | | |
 | M 10/24 | File I/O Cont'd ([notes][notes-wk7-file])|  | |
-| W 10/26 | Individual Exploration | CHOOSE ONE OF: Sweigart 12-19 | |
+| W 10/26 | Individual Exploration & Review | CHOOSE ONE OF: Sweigart 12-19 | |
 | Th 10/27 | _Lab: Housekeeping_ | | |
 | **Week 8** | **Debugging** | | |
 | M 10/31 | Documentation and Error Handling | | | 
 | W 11/2 | Asking Good Questions | | |
-| Th 11/3 | _Lab: Debug Challenge_ | Final Project Draft | Final Project Peer Comments
+| Th 11/3 | [TAKE-HOME: NO CLASS] _Lab: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Modules and More** | | | 
 | M 11/7 | More Modules | | |
 | W 11/8 | Topic TBD: Dependent on student interest | | |
