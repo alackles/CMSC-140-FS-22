@@ -80,6 +80,7 @@ Guides to installation practices or supplementary materials will be listed here.
 
 [Install Python (Mac)](/CMSC-140-FS-22/guides/install-mac)
 
+[PyGame: 4 - 9](https://makingagameofit.github.io/lessons/)
 # Additional Practice
 
 Here are two sites for additional practice, each with solutions. These are available if you want to try them; there's no need to submit them.
