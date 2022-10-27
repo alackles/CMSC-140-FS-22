@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-The purpose of this lab is to get some more practice with reading and writing files with Python. You can either use base python or Pandas for this lab. 
+The purpose of this lab is to get some more practice with reading and writing files with Python. You'll be using Pandas for this lab. 
 
 The secondary purpose of this lab is to **give you a refresher on using GitHub**. Remember that your final project will be turned in as a github repository; this lab will be turned in the same way. 
 
@@ -108,37 +108,24 @@ Each row is in the following format:
 Region,Country,State,Month,Day,Year,AvgTemperature
 ```
 
-
 # Part 3: Process your Data
 
 Your task for this lab is to **find the hottest day in each region, and record that information in a new csv file**.
 
-Part of this lab is deciding how to keep track of the hottest day in each region without knowing exactly what the regions are ahead of time, but to help you out, I can tell you there are x regions, so your CSV file should have x lines at the end.
+You'll use Pandas for this, and you're going to get some practice reading documentation to do so. Next week we'll talk more about finding documentation on your own, and asking good questions to the internet when documentation isn't enough. We're getting some practice with that today. 
+
+Part of this lab is deciding how to keep track of the hottest day in each region without knowing exactly what the regions are ahead of time, but to help you out, I can tell you there are 7 regions, so your CSV file should have at least 7 lines at the end.
 
 See below for some hints to guide you through this process.
 
-For this part, you can use **either** base Python or Pandas. **If you're someone taking this class for some data science experience, I strongly suggest using Pandas.**
-
-## Option 1: Base Python
-
 Here's the general outline of steps you should take:
-
-1. First, figure out how to read in your file. Remember the `Path()` module and `with open() as` method.
-2. Think about how you would solve a simpler problem first. How would you get the information for the maximum temperature across all the lines, without needing to split it up by region? Write this code first. 
-3. Next, think about how to break this down into regions. You're basically going to do what you did before to find the maximum, but for each region. Therefore, when you read through the file line by line, how will you know if you've moved on to a new region? As a helpful hint, the regions are all in order; i.e., once you stop reading information for a region, it is over. 
-4. Finally, you should write your new information out to a new `csv` file.
-
-## Option 2: Pandas
-
-Here's the general outline of steps you should take:
-
-_Note: This method will require you to write less code and a lot of it will happen behind the scenes, so I'm giving you less instruction. Instead, you're getting practice reading documentation, which we'll talk about on Monday._
 
 1. First, read in your file with `to_csv()`. 
-2. Next, take a look at the Pandas `groupby()` method [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html?highlight=groupby#pandas.DataFrame.groupby). Pay particular attention towards some of the examples, especially the ones involving `.sum()`.
-3. Next, take a look at the Pandas `max()` method [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.max.html). 
-4. Figure out how to use these and any other necessary operations to create either a new dataframe or another data structure that you can write out into a new file. 
+2. Next, take a look at the Pandas `groupby()` method [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html?highlight=groupby#pandas.DataFrame.groupby). If you use groupby, any functions you apply to the dataframe will happen within groups.  
+3. Next, figure out how to find the rows with maximum values in the Temperature column and return their entire row. Look back to the baseball data example if needed. 
+4. (Hint for the above if you're struggling: How would you do this if you didn't need to do it for each region? Write this code first. Then, change the dataframe into a grouped dataframe with groupby and try again.)
+5. Finally, write out your data to a file called `city_maxtemp.csv`. 
 
 # Part 4: Re-Upload to GitHub
 
-Upload your data to github with the add-commit-push steps, and submit the link to your repository to canvas. 
+Upload your data and your code `to github with the add-commit-push steps, and submit the link to your repository to canvas. 
