@@ -120,7 +120,7 @@ See below for some hints to guide you through this process.
 
 Here's the general outline of steps you should take:
 
-1. First, read in your file with `to_csv()`. 
+1. First, read in your file with `read_csv()`. 
 2. Next, take a look at the Pandas `groupby()` method [here](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html?highlight=groupby#pandas.DataFrame.groupby). If you use groupby, any functions you apply to the dataframe will happen within groups.  
 3. Next, figure out how to find the rows with maximum values in the Temperature column and return their entire row. Look back to the baseball data example if needed. 
 4. (Hint for the above if you're struggling: How would you do this if you didn't need to do it for each region? Write this code first. Then, change the dataframe into a grouped dataframe with groupby and try again.)
