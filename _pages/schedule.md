@@ -31,7 +31,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 10/10 | Strings ([notes][notes-wk5-strings]) | [Sweigart 6][sweigart-6] | |
 | W 10/12 | Regex ([notes][notes-wk5-regex]) | [Sweigart 7][sweigart-7] | [HW5][hw-5] | 
-| Th 10/13 | _Lab: DNA Sequencing_ | HW4 | |
+| Th 10/13 | [_Lab: DNA Sequencing_][lab-5] | HW4 | |
 | **Week 6** | **Basic File Handling** | | |
 | M 10/17 | Pathing ([notes][notes-wk6-pathing]) | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
 | W 10/19 | File I/O ([notes][notes-wk6-file]) | HW5; [Sweigart 9][sweigart-9] remaining | | 
@@ -39,7 +39,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | **Week 7** | **Advanced File Handling** | | |
 | M 10/24 | File I/O Cont'd ([notes][notes-wk7-file])|  | |
 | W 10/26 | Individual Exploration & Review | CHOOSE ONE OF: Sweigart 12-19 | |
-| Th 10/27 | _Lab: Housekeeping_ | | |
+| Th 10/27 | [_Lab: Heating Up_][lab-7] | | |
 | **Week 8** | **Debugging** | | |
 | M 10/31 | Documentation and Error Handling | | | 
 | W 11/2 | Asking Good Questions | | |
@@ -76,6 +76,8 @@ Reading should be completed **before** the class day that they are listed; the m
 [lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/
 [lab-4]: https://alackles.github.io/CMSC-140-FS-22/labs/lab4/
+[lab-5]: https://alackles.github.io/CMSC-140-FS-22/labs/lab5/
+[lab-7]: https://alackles.github.io/CMSC-140-FS-22/labs/lab7/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/

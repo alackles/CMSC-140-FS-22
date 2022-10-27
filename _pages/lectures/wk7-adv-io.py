@@ -93,7 +93,7 @@ def win_loss(row):
     loss = row['L']
     return int(win)/int(loss)
 # follow the format: df.apply(lambda row: function(row), axis = 1)
-teams_df["ratio"] = df.apply(lambda row: win_loss(row), axis = 1)
+teams_df["ratio"] = teams_df.apply(lambda row: win_loss(row), axis = 1)
 print(teams_df)
 
 
