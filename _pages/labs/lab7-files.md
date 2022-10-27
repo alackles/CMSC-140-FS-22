@@ -128,4 +128,4 @@ Here's the general outline of steps you should take:
 
 # Part 4: Re-Upload to GitHub
 
-Upload your data and your code `to github with the add-commit-push steps, and submit the link to your repository to canvas. 
+Upload your data and your code to github with the add-commit-push steps, and submit the link to your repository to canvas. 
