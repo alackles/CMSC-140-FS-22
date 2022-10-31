@@ -41,7 +41,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | W 10/26 | Individual Exploration & Review | CHOOSE ONE OF: Sweigart 12-19 | |
 | Th 10/27 | [_Lab: Heating Up_][lab-7] | | |
 | **Week 8** | **Debugging** | | |
-| M 10/31 | Documentation and Error Handling | | | 
+| M 10/31 | Documentation and Error Handling ([notes][notes-wk8-docs])| | | 
 | W 11/2 | Asking Good Questions | | |
 | Th 11/3 | [TAKE-HOME: NO CLASS] _Lab: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Modules and More** | | | 
@@ -92,5 +92,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk6-pathing]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-pathing/
 [notes-wk6-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-basic-io/
 [notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
+[notes-wk8-docs]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-docs/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
