@@ -11,6 +11,7 @@ toc_icon: "cog"
 Here is the code for this week:
 
 [Advanced File I/O](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk7-adv-io.py)
+
 [More Pandas](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk7-pandas.py)
 
 Recall last week we learned the basics of file input and output with base Python. Today we're extending on that by introducing Pandas, a poewrful python module designed for manipulation of data tables. 

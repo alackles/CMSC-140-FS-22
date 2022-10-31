@@ -8,6 +8,8 @@ toc_icon: "cog"
 
 # Lecture/Live Code
 
+[Code](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk8-docs.py)
+
 There are two parts to today's class. First we'll talk about _documentation_, which is an extremely useful resource that any good programming language has which breaks down some of the 
 
 ## Documentation
