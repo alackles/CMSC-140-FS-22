@@ -42,7 +42,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 10/27 | [_Lab: Heating Up_][lab-7] | | |
 | **Week 8** | **Debugging** | | |
 | M 10/31 | Documentation and Error Handling ([notes][notes-wk8-docs])| | | 
-| W 11/2 | Asking Good Questions | | |
+| W 11/2 | Asking Good Questions ([notes][notes-wk8-mwe]) | | |
 | Th 11/3 | [TAKE-HOME: NO CLASS] _Lab: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Modules and More** | | | 
 | M 11/7 | More Modules | | |
@@ -93,5 +93,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk6-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-basic-io/
 [notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
 [notes-wk8-docs]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-docs/
+[notes-wk8-mwe]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-mwe/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
