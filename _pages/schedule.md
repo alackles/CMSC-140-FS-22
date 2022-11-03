@@ -43,7 +43,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | **Week 8** | **Debugging** | | |
 | M 10/31 | Documentation and Error Handling ([notes][notes-wk8-docs])| | | 
 | W 11/2 | Asking Good Questions ([notes][notes-wk8-mwe]) | | |
-| Th 11/3 | [TAKE-HOME: NO CLASS] _Lab: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
+| Th 11/3 | [TAKE-HOME: NO CLASS] [_Lab: Debug Challenge_][lab-8]  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Modules and More** | | | 
 | M 11/7 | Topic TBD: Dependent on student interest [vote][poll] | | |
 | W 11/8 | Final Project Revisions | | |
@@ -78,6 +78,7 @@ Reading should be completed **before** the class day that they are listed; the m
 [lab-4]: https://alackles.github.io/CMSC-140-FS-22/labs/lab4/
 [lab-5]: https://alackles.github.io/CMSC-140-FS-22/labs/lab5/
 [lab-7]: https://alackles.github.io/CMSC-140-FS-22/labs/lab7/
+[lab-8]: https://alackles.github.io/CMSC-140-FS-22/labs/lab8/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/
