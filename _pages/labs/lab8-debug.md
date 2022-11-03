@@ -28,4 +28,4 @@ Some of the errors are syntax errors; others are logical errors. Feel free to us
 
 Hint: If you aren't sure whether your solution works, you can try using some _toy data_ to check it.
 
-Click [here](githublink) to download your bad code. 
+Click [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/labs/lab8-debug.py)) to download your bad code. 
