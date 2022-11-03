@@ -86,9 +86,41 @@ Below is an example:
 
 The project draft should be as close to your final project as you can manage, as this is what will provide you with the best peer feedback. At minimum, it should run without error!
 
-## Peer Review
+You will earn Mastery credit for just submitting the draft before the peer review period is up.
 
-You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. A specific feedback rubric will be provided for you (and posted here) at that time. 
+## Specifications: Peer Review
+
+You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. A specific feedback rubric will be provided for you (and posted here) at that time.
+
+For **Proficiency** credit, you must do the following for **each** project assigned to you.
+
+- Download your classmates' code to your own computer and run it
+    - To show you have done this, paste in the output into a `.txt` file to resubmit with your reviews
+- Give some feedback on your classmates' code using the following rubric.**For each rating, give a short (1 sentence) justification.**
+
+Learning Objective | (N)ovice | (P)roficient | (M)astery | IC 
+----- | ------| -------| ------| -----
+L1: Basics | Project is missing at least one of: conditionals, loops, functions, data storage | Project has all of the basic structures, but may not be using them correctly (e.g. the `if` statements don't do what they're intended to) | Project is using each of the basic structural components well and efficiently | Not present
+L2: Data Processing | Project tries to take user input or a file input, but does not work | Project takes either user input or file input in a basic way | Project concisely handles user input with input("Message") and/or uses Path for external files | Not present
+L3: Debugging | Project handles user input with some basic checking but invalid input immediately ends the program | Project handles user input with if/else | Project handles user input with try/except | Project has obvious errors upon running
+L4: Style | Project has good variable names, but no clear organization into functions and no comments | Project has some organization and some good variable names but could be improved with better commenting or putting routines into functions | Project has good comments and descriptive variable names | Project has no comments and is difficult to read due to poor naming/spacing
+
+If one of these doesn't fit the project you're looking at exactly, make your best guess. 
+
+
+For **Mastery** credit, you should also write some additional substantive qualitative comments along with your ratings and justifications. Try to give at least **one** compliment and at least **one** suggestion for improvement.
+
+To turn in your peer reviews, format your comments in a `.txt` file as in the following example:
+
+```
+SCORES
+L1: N - i didn't see any functions being used but had loops and if/else statements used well 
+L2: N - project takes one number as input from the user
+L3: P - used try/except to check if there is an integer input
+L4: N - no functions and variables are named like "a" "b" "c"
+
+I thought you did a good job of handling possible bad inputs to your function by using try/except to check if something is an integer. One thing that might be an improvement on your project is sometimes you are using a dictionary to just iterate over values as the keys. You could probably use a list instead for this.
+```
 ## Reflection
 
 Your final reflection is a reflection of both your project and the course. It is a short piece of writing that gives you room to reflect on your intro programming journey.

@@ -1,0 +1,4 @@
+Team,Win,Loss
+A,0,7
+B,7,0
+C,4,3
