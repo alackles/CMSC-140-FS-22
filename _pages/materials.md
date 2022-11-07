@@ -80,6 +80,10 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 [Asking Good Questions](/CMSC-140-FS-22/lectures/wk8-mwe)
 
+## Week 9
+
+[Importing Your Own Files](/CMSC-140-FS22/lectures/wk9-imports2)
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 

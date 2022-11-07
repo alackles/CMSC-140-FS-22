@@ -45,7 +45,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | W 11/2 | Asking Good Questions ([notes][notes-wk8-mwe]) | | |
 | Th 11/3 | [TAKE-HOME: NO CLASS] [_Lab: Debug Challenge_][lab-8]  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Modules and More** | | | 
-| M 11/7 | Topic TBD: Dependent on student interest [vote][poll] | | |
+| M 11/7 | File Imports ([notes][notes-wk9-imports2]) | | |
 | W 11/8 | Final Project Revisions | | |
 | Th 11/9 | [CANCELLED: NO CLASS] | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
@@ -95,7 +95,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
 [notes-wk8-docs]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-docs/
 [notes-wk8-mwe]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-mwe/
+[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-imports2/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
-
-[poll]: https://app.rankedvote.co/decisions/25753/Topic-for-Monday/26702/vote
