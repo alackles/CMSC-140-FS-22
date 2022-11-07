@@ -95,6 +95,6 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
 [notes-wk8-docs]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-docs/
 [notes-wk8-mwe]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-mwe/
-[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-imports2/
+[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk9-imports2/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8

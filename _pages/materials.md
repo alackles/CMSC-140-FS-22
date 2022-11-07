@@ -82,7 +82,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 
 ## Week 9
 
-[Importing Your Own Files](/CMSC-140-FS22/lectures/wk9-imports2)
+[Importing Your Own Files](/CMSC-140-FS-22/lectures/wk9-imports2)
 
 # Guides
 
