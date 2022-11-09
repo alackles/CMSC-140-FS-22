@@ -151,10 +151,9 @@ Below is an outline of which assessments match to which learning objectives, and
 - Final Project Draft 
 - Final Project
 
-**L3: Debugging** [3 of 4]
+**L3: Debugging** [2 of 3]
 - HW5 
 - Week 8 Lab: Debug Challenge
-- Week 9 In-Class Project
 - Revision of any homework where you did _not_ earn mastery credit
 
 **L4: Style** [9 of 12]
@@ -163,10 +162,9 @@ Below is an outline of which assessments match to which learning objectives, and
 - Final project draft
 - Final project 
 
-**L5: Code Review** [3 of 4]
+**L5: Code Review** [2 of 3]
  - Homework 3
  - Week 8 Lab: Debugging
- - Week 9 In-Class Project 
  - Final project feedback
 
 **L6: Collaboration** [3 of 4]
