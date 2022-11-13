@@ -29,8 +29,8 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | [Week 3: Revise & Resubmit](/CMSC-140-FS-22/labs/lab3) | Th 9/29| Tu 10/11 |
 | [Week 4: Mini Battleship](/CMSC-140-FS-22/labs/lab4) | Th 10/6 | F 10/21 |
 | [Week 5: DNA Sequencing](/CMSC-140-FS-22/labs/lab5) | Th 10/13 | Tu 10/25 |
-| [Week 7: Heating Up](/CMSC-140-FS-22/labs/lab7) | Th 10/27 | TBD |
-| [Week 8: Debug Challenge](/CMSC-140-FS-22/labs/lab8) | Th 11/3 | TBD |
+| [Week 7: Heating Up](/CMSC-140-FS-22/labs/lab7) | Th 10/27 | Th 11/17 |
+| [Week 8: Debug Challenge](/CMSC-140-FS-22/labs/lab8) | Th 11/3 | Th 11/17 |
 
 # Lecture Notes
 
