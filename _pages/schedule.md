@@ -50,7 +50,7 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 11/9 | [CANCELLED: NO CLASS] | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
 | M 11/14 | Final Project Work |  | | 
-| W 11/16 | Course Debrief & Feedback |  | |
+| W 11/16 | Course Debrief & Feedback | | ([End-of-Term Eval][end-eval]) ([Materials Consent][consent]) |
 | Th 11/17 | _Lab: Final Project Work_
 
 **Final Projects Due Tuesday, November 23 by 11:59 PM**
@@ -98,3 +98,5 @@ Reading should be completed **before** the class day that they are listed; the m
 [notes-wk9-imports2]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk9-imports2/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
+[end-eval]: https://forms.gle/RWnkvNyraRorMxQCA
+[consent]: https://forms.gle/JkWLWZW6PMEoNvWDA
